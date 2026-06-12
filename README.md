@@ -1,5 +1,4 @@
 Kalyani M G
-Computer Science Engineering Student
 
 Projects
 
@@ -43,3 +42,6 @@ https://customer-churn-prediction-hkqovx7gtsq3qrkiyn57ky.streamlit.app/
 
 3.Movie Genre Classifier:
 https://moviegenre-m3xllagpbwk7rwnagucofb.streamlit.app/
+
+4.Cervical Cancer Prediction
+https://cervicalcancerdetection-c3hggizukzy6uhn4udrrj8.streamlit.app/
