@@ -1,5 +1,20 @@
 Kalyani M G
 
+LINKS
+
+1.Spam Detection:
+https://spamdetection-bhmyxcns4mwakuanhnc3ep.streamlit.app/
+
+2.Customer Churn Prediction:
+https://customer-churn-prediction-hkqovx7gtsq3qrkiyn57ky.streamlit.app/
+
+3.Movie Genre Classifier:
+https://moviegenre-m3xllagpbwk7rwnagucofb.streamlit.app/
+
+4.Cervical Cancer Prediction
+https://cervicalcancerdetection-c3hggizukzy6uhn4udrrj8.streamlit.app/
+
+
 Projects
 
 1. Cervical Cancer Detection
@@ -32,16 +47,3 @@ Projects
    - Content-Based Filtering
    - Movie Metadata Analysis
      
-LINKS
-
-1.Spam Detection:
-https://spamdetection-bhmyxcns4mwakuanhnc3ep.streamlit.app/
-
-2.Customer Churn Prediction:
-https://customer-churn-prediction-hkqovx7gtsq3qrkiyn57ky.streamlit.app/
-
-3.Movie Genre Classifier:
-https://moviegenre-m3xllagpbwk7rwnagucofb.streamlit.app/
-
-4.Cervical Cancer Prediction
-https://cervicalcancerdetection-c3hggizukzy6uhn4udrrj8.streamlit.app/
